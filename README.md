@@ -5,5 +5,3 @@ We've gathered together a list of resources to help you get started on our aweso
 This resource is still in it's early stages so everyone feel free to make contributions that may be helpful to others.
 
 Good Luck!
-
--Ben
