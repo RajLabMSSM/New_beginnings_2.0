@@ -17,18 +17,18 @@ A short list of some introductory papers to get you started on the exciting stuf
 
 ## Splicing QTLs
 
-Yang’s Science paper: https://science.sciencemag.org/content/352/6285/600 
-Leafcutter paper: https://pubmed.ncbi.nlm.nih.gov/29229983/ 
-RMATS sQTLs in GTEx: https://pubmed.ncbi.nlm.nih.gov/32589925/ 
-Raj lab paper on sQTLs in AD: https://www.nature.com/articles/s41588-018-0238-1 
+* Important paper on sQTLs in disease: https://science.sciencemag.org/content/352/6285/600 
+* Leafcutter method paper: https://pubmed.ncbi.nlm.nih.gov/29229983/ 
+* sQTLs in GTEx: https://pubmed.ncbi.nlm.nih.gov/32589925/ 
+* Raj lab paper on sQTLs in AD: https://www.nature.com/articles/s41588-018-0238-1 
 
 ## Long read papers
 
-SQANTI paper https://www.ncbi.nlm.nih.gov/pmc/articles/PMC5848618/ 
-TALON paper https://www.biorxiv.org/content/10.1101/672931v1
-Good review on long read RNA-seq: https://pubmed.ncbi.nlm.nih.gov/31475029/ 
-Bambu application paper: https://www.biorxiv.org/content/10.1101/2021.04.21.440736v1.full.pdf
-Small paper: https://www.biorxiv.org/content/10.1101/2021.01.22.427687v1.full.pdf 
-GTEX long reads (nanopore): https://www.biorxiv.org/content/10.1101/2021.01.22.427687v1 
+* SQANTI paper https://www.ncbi.nlm.nih.gov/pmc/articles/PMC5848618/ 
+* TALON paper https://www.biorxiv.org/content/10.1101/672931v1
+* Good review on long read RNA-seq: https://pubmed.ncbi.nlm.nih.gov/31475029/ 
+* Bambu application paper: https://www.biorxiv.org/content/10.1101/2021.04.21.440736v1.full.pdf
+* Small paper: https://www.biorxiv.org/content/10.1101/2021.01.22.427687v1.full.pdf 
+* GTEX long reads (nanopore): https://www.biorxiv.org/content/10.1101/2021.01.22.427687v1 
 
 
