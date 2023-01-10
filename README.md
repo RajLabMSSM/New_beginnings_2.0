@@ -5,3 +5,15 @@ We've gathered together a list of resources to help you get started on our aweso
 This resource is still in it's early stages so everyone feel free to make contributions that may be helpful to others.
 
 Good Luck!
+
+## Connecting to the wifi
+1. Connect to the network: MSMC-green
+2. Login Info:
+  - For Android Phones:
+    - Use system certificates
+    - Domain: mountsinai.org
+    - Identity: <user email address>
+    - Password: <same password as email>
+   - For Macbooks:
+    - ID: login ID - aka, the id that consists of part of your last name, first initial, then some number (ex. mulleb01)
+    - Password: <same password as email>
