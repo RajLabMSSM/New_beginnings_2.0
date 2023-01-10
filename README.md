@@ -9,11 +9,11 @@ Good Luck!
 ## Connecting to the wifi
 1. Connect to the network: MSMC-green
 2. Login Info:
-  - For Android Phones:
-    - Use system certificates
-    - Domain: mountsinai.org
-    - Identity: <user email address>
-    - Password: <same password as email>
-   - For Macbooks:
-    - ID: login ID - aka, the id that consists of part of your last name, first initial, then some number (ex. mulleb01)
-    - Password: <same password as email>
+    - For Android Phones:
+      - Use system certificates
+      - Domain: mountsinai.org
+      - Identity: <user email address>
+      - Password: <same password as email>
+    - For Macbooks:
+      - ID: login ID - aka, the id that consists of part of your last name, first initial, then some number (ex. mulleb01)
+      - Password: <same password as email>
