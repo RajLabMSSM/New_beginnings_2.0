@@ -12,8 +12,8 @@ Good Luck!
     - For Android Phones:
       - Use system certificates
       - Domain: mountsinai.org
-      - Identity: <user email address>
-      - Password: <same password as email>
+      - Identity: _user email address_
+      - Password: _same password as email_
     - For Macbooks:
       - ID: login ID - aka, the id that consists of part of your last name, first initial, then some number (ex. mulleb01)
-      - Password: <same password as email>
+      - Password: _same password as email_
