@@ -15,5 +15,5 @@ Good Luck!
       - Identity: _user email address_
       - Password: _same password as email_
     - For Macbooks:
-      - ID: login ID - aka, the id that consists of part of your last name, first initial, then some number (ex. mulleb01)
+      - ID: `mssmcampus/login ID` - aka, the id that consists of part of your last name, first initial, then some number (ex. mulleb01)
       - Password: _same password as email_
